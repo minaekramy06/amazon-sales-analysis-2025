@@ -119,5 +119,6 @@ Main features:
 
 **Mina Ekramy**  
 Computer Engineering Student | Aspiring Data Science and Machine learning
+
 🔗 LinkedIn: https://linkedin.com/in/mina-ekramy
 🔗 GitHub: https://github.com/minaekramy06
